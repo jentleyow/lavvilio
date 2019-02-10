@@ -1,7 +1,7 @@
 {
-  "main.css": "/lavvilio/static/css/main.a4eac62b.chunk.css",
-  "main.js": "/lavvilio/static/js/main.4d3a800b.chunk.js",
-  "main.js.map": "/lavvilio/static/js/main.4d3a800b.chunk.js.map",
+  "main.css": "/lavvilio/static/css/main.20d50aef.chunk.css",
+  "main.js": "/lavvilio/static/js/main.33f7ccbb.chunk.js",
+  "main.js.map": "/lavvilio/static/js/main.33f7ccbb.chunk.js.map",
   "static/js/1.b64dffe3.chunk.js": "/lavvilio/static/js/1.b64dffe3.chunk.js",
   "static/js/1.b64dffe3.chunk.js.map": "/lavvilio/static/js/1.b64dffe3.chunk.js.map",
   "runtime~main.js": "/lavvilio/static/js/runtime~main.ba5db000.js",
@@ -15,8 +15,8 @@
   "static/media/test3.jpg": "/lavvilio/static/media/test3.7961107a.jpg",
   "static/media/logo_white.png": "/lavvilio/static/media/logo_white.072455c4.png",
   "static/media/app.scss": "/lavvilio/static/media/appointment.3bb96e8a.jpg",
-  "static/css/main.a4eac62b.chunk.css.map": "/lavvilio/static/css/main.a4eac62b.chunk.css.map",
+  "static/css/main.20d50aef.chunk.css.map": "/lavvilio/static/css/main.20d50aef.chunk.css.map",
   "index.html": "/lavvilio/index.html",
-  "precache-manifest.82f361972fa1e0e692b3a637d3965f93.js": "/lavvilio/precache-manifest.82f361972fa1e0e692b3a637d3965f93.js",
+  "precache-manifest.16036ea6892cb6e68d7fd4d8291a34cf.js": "/lavvilio/precache-manifest.16036ea6892cb6e68d7fd4d8291a34cf.js",
   "service-worker.js": "/lavvilio/service-worker.js"
 }

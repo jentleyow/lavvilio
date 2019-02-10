@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lavvilio/precache-manifest.82f361972fa1e0e692b3a637d3965f93.js"
+  "/lavvilio/precache-manifest.16036ea6892cb6e68d7fd4d8291a34cf.js"
 );
 
 workbox.clientsClaim();

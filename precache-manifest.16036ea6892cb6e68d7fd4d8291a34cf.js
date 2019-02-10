@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4d3a800bda0a8bf3edc4",
-    "url": "/lavvilio/static/css/main.a4eac62b.chunk.css"
+    "revision": "33f7ccbb7042323d8bd8",
+    "url": "/lavvilio/static/css/main.20d50aef.chunk.css"
   },
   {
-    "revision": "4d3a800bda0a8bf3edc4",
-    "url": "/lavvilio/static/js/main.4d3a800b.chunk.js"
+    "revision": "33f7ccbb7042323d8bd8",
+    "url": "/lavvilio/static/js/main.33f7ccbb.chunk.js"
   },
   {
     "revision": "b64dffe39087fa806618",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/lavvilio/static/media/appointment.3bb96e8a.jpg"
   },
   {
-    "revision": "74c5df8f7f55d4ee30f8d56ea5b6737f",
+    "revision": "649432dcf06899619c61179219bcff76",
     "url": "/lavvilio/index.html"
   }
 ];

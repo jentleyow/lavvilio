@@ -1,0 +1,46 @@
+#services {
+  background-color: #f7f7f7;
+  padding: 100px 0px;
+  h2 {
+    padding: 30px;
+    font-size: 1em;
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 1.5em;
+  }
+}
+.services-box {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.service {
+  margin: 50px auto 0px;
+  width: 260px;
+  padding: 30px 10px;
+  .fas {
+    font-size: 2em;
+    color: $orange2;
+    font-size: 5em;
+  }
+  h1 {
+    padding-top: 50px;
+    font-size: 1.6em;
+    font-weight: bold;
+    line-height: 1.2em;
+    &:after {
+      content: '';
+      display: block;
+      border-bottom: 5px $orange2 solid;
+      width: 100px;
+      padding-bottom: 20px;
+    }
+  }
+
+  p {
+    padding-top: 30px;
+    line-height: 2em;
+    font-size: 0.8em;
+  }
+}

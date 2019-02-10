@@ -1,0 +1,18 @@
+import React from 'react';
+const Loader = () => {
+  return (
+    <div id="loadingbox">
+      <div class="loading">
+        <div class="obj" />
+        <div class="obj" />
+        <div class="obj" />
+        <div class="obj" />
+        <div class="obj" />
+        <div class="obj" />
+        <div class="obj" />
+        <div class="obj" />
+      </div>
+    </div>
+  );
+};
+export default Loader;

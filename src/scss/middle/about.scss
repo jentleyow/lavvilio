@@ -1,0 +1,43 @@
+#about {
+  text-align: left;
+  padding: 100px 0px;
+}
+#about .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+.about-container {
+  width: 30%;
+}
+.about-container img {
+  width: 100%;
+}
+.about-text {
+  width: 60%;
+}
+#about h1 {
+  font-size: 2em;
+  color: #333;
+  line-height: 1.4em;
+}
+#about h2 {
+  padding-top: 20px;
+  font-size: 1em;
+  line-height: 1.8em;
+  color: #999;
+}
+@media (max-width: 1200px) {
+  #about .container {
+    flex-direction: column;
+    text-align: center;
+    .about-container {
+      padding: 30px;
+      width: 80%;
+    }
+    .about-text {
+      width: 80%;
+    }
+  }
+}

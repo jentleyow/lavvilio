@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/lavvilio/static/media/appointment.3bb96e8a.jpg"
   },
   {
-    "revision": "3048fa1142f33ba5e0c6ed60234c83ba",
+    "revision": "74c5df8f7f55d4ee30f8d56ea5b6737f",
     "url": "/lavvilio/index.html"
   }
 ];
